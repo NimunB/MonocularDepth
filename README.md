@@ -14,6 +14,6 @@ In 2017, Clément Godard, Oisin Mac Aodha, and Gabriel J. Brostow published a pa
 
 This method uses left-right image pairs taken by parallel cameras at a given base-length. It uses the left image to estimate both the left-to-right and right-to-left disparity maps. The left-to-right disparity map is used to reconstruct the right image, and the right-to-left disparity map is used to reconstruct the left image. The reconstructed images are then compared with the original images, and used to drive the loss function.
 
-I will be attempting to follow this same method while implementing unsupervised/self-supervised monocular depth estimation.
+I attempt to follow this same method while implementing unsupervised/self-supervised monocular depth estimation.
 
 <img width="725" alt="Screen Shot 2024-05-31 at 4 11 31 PM" src="https://github.com/NimunB/MonocularDepth/assets/32827637/74f04d04-2c91-4437-8536-3d7449c02587">
