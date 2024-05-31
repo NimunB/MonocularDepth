@@ -17,3 +17,6 @@ This method uses left-right image pairs taken by parallel cameras at a given bas
 I attempt to follow this same method while implementing unsupervised/self-supervised monocular depth estimation.
 
 <img width="725" alt="Screen Shot 2024-05-31 at 4 11 31 PM" src="https://github.com/NimunB/MonocularDepth/assets/32827637/74f04d04-2c91-4437-8536-3d7449c02587">
+
+### Disparity Map
+<img width="833" alt="Screen Shot 2024-05-31 at 4 15 29 PM" src="https://github.com/NimunB/MonocularDepth/assets/32827637/d2606747-44a6-452e-9589-f92a36a4058e">
